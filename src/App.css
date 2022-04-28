@@ -1,5 +1,5 @@
 body {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 .grid {
@@ -9,6 +9,7 @@ body {
 }
 
 .box {
+  color: #ffffff;
   width: auto;
   height: 100px;
   display: flex;
@@ -18,9 +19,5 @@ body {
 
 .icon {
   font-size: 35px;
-  color: #ffffff;
-}
-
-.heading {
   color: #ffffff;
 }
